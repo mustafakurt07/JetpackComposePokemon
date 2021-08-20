@@ -3,6 +3,7 @@ Projede yeni çıkan jetpack  compose konusunu deneyimleme çalıştım. Alpha v
 # Kullanılan Teknolojiler
 Verileri çekmek için retrot kütüphanesini, bağımlılıklar için dagger-hilt,  fotolar için coil (ilk defa kullandım), asenkron işlemler için coroutines, timber  kullandım.
 # Projeden Görüntüler
+<img width="271" alt="Screen Shot 2021-08-20 at 1 49 40 PM" src="https://user-images.githubusercontent.com/27029629/130222694-ec513085-9a96-4e17-a3e1-3529e359af04.png">
 
 
 # Yararlanılan Kaynaklar 
