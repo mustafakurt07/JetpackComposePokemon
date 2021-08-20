@@ -5,7 +5,7 @@ Verileri çekmek için retrot kütüphanesini, bağımlılıklar için dagger-hi
 # Projeden Görüntüler
 
 
-#Yararlanılan Kaynaklar 
+# Yararlanılan Kaynaklar 
 Developer Google
 Youtube
 Coil github page
